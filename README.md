@@ -1,5 +1,9 @@
 ### What is it, What physics does it use, Who is it for:
+
+
+
 QUANTUM-VEIL is an interactive educational game designed to make quantum networking and its real-world applications more accessible, engaging, and enjoyable.
+Link to game:https://quantum-networking-h-5kwe.bolt.host/
 
 Quantum networking is an emerging field that uses the principles of quantum mechanics to transmit quantum information and connect quantum devices. Although it has the potential to transform secure communication, distributed quantum computing, and quantum sensing, its underlying concepts can be difficult for beginners to understand through traditional textbooks or technical explanations alone.
 
